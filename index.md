@@ -1,3 +1,5 @@
+
+<img src = "IMG_0206.jpg" width = "200" height = "200" />
 ![Joey's profile image](IMG_0206.jpg)  
 # Joey Martin 
 ## Contact info: 
