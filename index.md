@@ -3,9 +3,9 @@
 ## Contact info: [Email](mailto:joey.martin470@gmail.com) [LinkedIn](https://www.linkedin.com/in/joey-martin-825ab913b/)
 
 ## Education 
-  - **La Costa Canyon High School** -August 2014 - May 2017
+  - **La Costa Canyon High School** - (August 2014 - May 2017)
   
-  - **MiraCosta College** - August 2017 - present 
+  - **MiraCosta College** - (August 2017 - present) 
   Associates, Computer Science 
   
 ## Skills 
