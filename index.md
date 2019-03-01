@@ -10,8 +10,8 @@
   
 ## Skills 
 - **Primary Language**: Java 
--**Operating Systems**: Windows 
--**AutoCAD Drafting**: Base map drafting, AutoCAD versions 2016 - AutoCAD versions 2019
+- **Operating Systems**: Windows 
+- **AutoCAD Drafting**: Base map drafting, AutoCAD versions 2016 - AutoCAD versions 2019
 
 
 ## Work Experience
