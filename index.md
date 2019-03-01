@@ -1,4 +1,4 @@
-![Joey's profile image](me.jpg)  
+![Joey's profile image](IMG_0206.jpg)  
 # Joey Martin 
 ## Contact info: 
   - [Email](mailto:joey.martin470@gmail.com) 
