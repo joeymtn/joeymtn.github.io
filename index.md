@@ -16,12 +16,12 @@
 
 ## Work Experience
 - **[Lotus Telecom Engineering] -*San Jose, CA*** 
-    -*Junior AutoCAD drafter(August 2016 - March 2018) 
+    - *Junior AutoCAD drafter(August 2016 - March 2018) 
     - In charge of drawing aerial projections for base maps of civil telecom construction projects 
       using AutoCAD and city records,  and in assembling post-construction summary notes/asbuilts for 
       clients and civil municipalities
 
 
 ## Honors and Awards 
--Dean's List Award, Miracosta College, 2017, 2018
+-Dean's List Honors Award, Miracosta College, 2017, 2018
 
