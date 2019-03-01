@@ -1,7 +1,6 @@
 
-<img src = "IMG_0206.jpg" width = "300" height = "200" />
-
-![Joey's profile image](IMG_0206.jpg)  
+<img src = "IMG_0206.jpg" width = "350" height = "300" />
+  
 # Joey Martin 
 ## Contact info: 
   - [Email](mailto:joey.martin470@gmail.com) 
