@@ -1,5 +1,5 @@
 
-<img src = "prof pic.jpg" width = "350" height = "300" />
+<img src = "prof_pic.jpg" width = "350" height = "300" />
   
 # Joey Martin 
 ## Contact info: 
